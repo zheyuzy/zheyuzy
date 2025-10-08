@@ -31,4 +31,4 @@ Native app for side‑by‑side AI responses (no API keys).
 - 🛠️ Efficient backtesting & data pipelines
 
 ## Contact ↗
-- 🔗 LinkedIn: [https://www.linkedin.com/in/zheyuzy/](https://www.linkedin.com/in/zheyuzy/)](https://www.linkedin.com/in/zheyuzy/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/zheyuzy/](https://www.linkedin.com/in/zheyuzy/)
