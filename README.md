@@ -9,7 +9,7 @@ Financial Engineering + Applied ML — building robust systems that turn market 
 ## Selected Work ▸
 ### GARCH‑LSTM for ETH/BTC Volatility & Strategy 🛰️
 Hybrid model combining GARCH dynamics with LSTM; walk‑forward backtesting under regime shifts.
-- 🔗 Repo: GARCH-LSTM-model-on-ETH-BTC-pair
+- 🔗 Repo:[ GARCH-LSTM-model-on-ETH-BTC-pair](https://github.com/zheyuzy/GARCH-LSTM-model-on-ETH-BTC-pair)
 - 📊 Highlights: architecture, hybrid, Sharpe, max drawdown, cost robustness
 - 🛠️ Tech: Python, PyTorch, Pandas, NumPy, Matplotlib
 
