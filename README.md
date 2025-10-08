@@ -42,4 +42,4 @@ Native app for side‑by‑side AI responses (no API keys).
 
 ## Contact ↗
 - 🔗 LinkedIn: [https://www.linkedin.com/in/zheyuzy/](https://www.linkedin.com/in/zheyuzy/)
-- ✉️ Email: [zheyuzheyee@gmail.com](mailto:zheyuzheyee@gmail.com)
+- ✉️ Email: [zheyuzheyee@gmail.com](mailto:zheyuzheyee@gmail.com),[li0010ee@e.ntu.edu.sg](mailto:li0010ee@e.ntu.edu.sg)
