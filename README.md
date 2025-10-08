@@ -40,7 +40,7 @@ Native app for side‑by‑side AI responses (no API keys).
 - 🛠️ Efficient backtesting & data pipelines
 - 🖥️ Production‑grade ML + crisp UIs
 
-## Contact 
+## Contact - Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zheyuzy/)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:zheyuzheyee@gmail.com)
 
