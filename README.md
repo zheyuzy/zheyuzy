@@ -1,5 +1,7 @@
-# Hey there, I'm Zhe Yee ⚙️
+# Hey! I'm Zhe Yee ⚙️
 
+
+## About Me
 Financial Engineering + Applied ML — building robust systems that turn market data into decisions.
 
 - 🎓 BEng EEE @ Nanyang Technological University · MScFE @ WorldQuant University
