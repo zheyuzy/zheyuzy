@@ -2,7 +2,7 @@
 
 Financial Engineering + Applied ML — building robust systems that turn market data into decisions.
 
-- 🎓 MScFE @ WorldQuant University · BEng EEE @ NTU
+- 🎓 BEng EEE @ Nanyang Technological University · MScFE @ WorldQuant University 
 - 📈 Volatility forecasting, risk modeling, ML strategies
 - 🧠 Python · PyTorch · TensorFlow · SQL · React · Node
 
