@@ -16,22 +16,21 @@ Financial Engineering + Applied ML — building robust systems that turn market 
 
 ## Selected Work ▸
 
-### GARCH‑LSTM for ETH/BTC Volatility & Strategy 🛰️
+###[ GARCH‑LSTM for ETH/BTC Volatility & Strategy](https://github.com/zheyuzy/GARCH-LSTM-model-on-ETH-BTC-pair) 🛰️
 Hybrid model combining GARCH dynamics with LSTM; walk‑forward backtesting under regime shifts.
-- 🔗 Repo: [GARCH-LSTM-model-on-ETH-BTC-pair](https://github.com/zheyuzy/GARCH-LSTM-model-on-ETH-BTC-pair)
 - 📊 Highlights: architecture, hybrid, Sharpe, max drawdown, cost robustness
 - 🛠️ Tech: Python, PyTorch, Pandas, NumPy, Matplotlib
 
-### Menutify — Spotify Top Tracks “Menu” 🎧
+###[ Menutify — Spotify Top Tracks “Menu”] (https://github.com/zheyuzy/menutify) 🎧
 React + Node app generating a menu‑themed image from Spotify top tracks/artists/genres.
 - 🚀 Live: Vercel deployment
 - 🛠️ Tech: React, Express, Spotify API
 
-### HKN — Minimal Hacker News Client 🗞️
+### [HKN — Minimal Hacker News Client](https://github.com/zheyuzy/HKN) 🗞️
 Fast, clean UX for browsing HN.
 - 🛠️ Tech: TypeScript, React
 
-### DumbAIss — macOS AI Compare 🧩
+### [DumbAIss — macOS AI app ](https://github.com/zheyuzy/DumbAIss) 🧩
 Native app for side‑by‑side AI responses (no API keys).
 - 🛠️ Tech: Swift
 
