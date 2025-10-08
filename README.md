@@ -1,4 +1,4 @@
-# Lim Zhe Yee (Zhe Yee) ⚙️
+# Lim Zhe Yee ⚙️
 
 Financial Engineering + Applied ML — building robust systems that turn market data into decisions.
 
@@ -29,7 +29,6 @@ Native app for side‑by‑side AI responses (no API keys).
 ## Focus Areas 🔍
 - 📐 Robust time‑series models for volatile markets
 - 🛠️ Efficient backtesting & data pipelines
-- 🖥️ Production‑grade ML + crisp UIs
 
 ## Contact ↗
-- 🔗 LinkedIn: [https://](https://www.linkedin.com/in/zheyuzy/)
+- 🔗 LinkedIn: [[https://](https://www.linkedin.com/in/zheyuzy/)](https://www.linkedin.com/in/zheyuzy/)
