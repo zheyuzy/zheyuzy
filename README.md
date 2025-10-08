@@ -21,7 +21,7 @@ Hybrid model combining GARCH dynamics with LSTM; walk‑forward backtesting unde
 - 📊 Highlights: architecture, hybrid, Sharpe, max drawdown, cost robustness
 - 🛠️ Tech: Python, PyTorch, Pandas, NumPy, Matplotlib
 
-### [Menutify — Spotify Top Tracks “Menu”] (https://github.com/zheyuzy/menutify) 🎧
+### [Menutify — Spotify Top Tracks](https://github.com/zheyuzy/menutify) 🎧
 React + Node app generating a menu‑themed image from Spotify top tracks/artists/genres.
 - 🚀 Live: Vercel deployment
 - 🛠️ Tech: React, Express, Spotify API
