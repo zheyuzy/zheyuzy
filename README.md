@@ -16,12 +16,12 @@ Financial Engineering + Applied ML — building robust systems that turn market 
 
 ## Selected Work ▸
 
-###[ GARCH‑LSTM for ETH/BTC Volatility & Strategy](https://github.com/zheyuzy/GARCH-LSTM-model-on-ETH-BTC-pair) 🛰️
+### [GARCH‑LSTM for ETH/BTC Volatility & Strategy](https://github.com/zheyuzy/GARCH-LSTM-model-on-ETH-BTC-pair) 🛰️
 Hybrid model combining GARCH dynamics with LSTM; walk‑forward backtesting under regime shifts.
 - 📊 Highlights: architecture, hybrid, Sharpe, max drawdown, cost robustness
 - 🛠️ Tech: Python, PyTorch, Pandas, NumPy, Matplotlib
 
-###[ Menutify — Spotify Top Tracks “Menu”] (https://github.com/zheyuzy/menutify) 🎧
+### [Menutify — Spotify Top Tracks “Menu”] (https://github.com/zheyuzy/menutify) 🎧
 React + Node app generating a menu‑themed image from Spotify top tracks/artists/genres.
 - 🚀 Live: Vercel deployment
 - 🛠️ Tech: React, Express, Spotify API
