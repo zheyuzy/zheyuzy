@@ -4,13 +4,13 @@ Financial Engineering + Applied ML — building robust systems that turn market 
 
 - 🎓 BEng EEE @ Nanyang Technological University · MScFE @ WorldQuant University 
 - 📈 Volatility forecasting, risk modeling, ML strategies
-- 🧠 Python · PyTorch · TensorFlow · SQL · React · Node
+- 🧠 Python · PyTorch · TensorFlow · SQL · React · Node.js
 
 ## Selected Work ▸
 ### GARCH‑LSTM for ETH/BTC Volatility & Strategy 🛰️
-Hybrid model combining `{latex}\text{GARCH}` dynamics with `{latex}\text{LSTM}`; walk‑forward backtesting under regime shifts.
+Hybrid model combining GARCH dynamics with LSTM; walk‑forward backtesting under regime shifts.
 - 🔗 Repo: GARCH-LSTM-model-on-ETH-BTC-pair
-- 📊 Highlights: architecture, ablation, Sharpe, max drawdown, cost robustness
+- 📊 Highlights: architecture, hybrid, Sharpe, max drawdown, cost robustness
 - 🛠️ Tech: Python, PyTorch, Pandas, NumPy, Matplotlib
 
 ### Menutify — Spotify Top Tracks “Menu” 🎧
